@@ -1,0 +1,16 @@
+.holder {
+  margin-top: 80px;
+}
+
+.jumbotron {
+  box-shadow: 0 2px 5px 0 darkslategray;
+  font-family: "Patua One", cursive;
+  font-size: 1.3em;
+  font-weight: bold;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Spacer {
+  text-align: center;
+}

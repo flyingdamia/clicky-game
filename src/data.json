@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/charlie.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "assets/images/franklin.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "assets/images/lucy.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "assets/images/marcie.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "assets/images/peppermint.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "assets/images/woodstock.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "assets/images/snoopy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "assets/images/schroeder.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "assets/images/linus.gif",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "assets/images/sally.gif",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "assets/images/pigpen.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "assets/images/eudora.png",
+    "clicked": false
+  }
+]
